@@ -1,2 +1,3 @@
 alert('hello world');
-alert('on master');
+alert('hello')
+alert('on slave');
